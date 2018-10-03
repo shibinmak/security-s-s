@@ -1,5 +1,5 @@
 # security-s-s
 DEEP LEARNING BASED SECURITY SURVEILLANCE MONITORING SYSYTEM WITH 3 REALTIME ALERTS INCLUDING WHATSAPP,EMAIL,SMS.
 
-![]('./data/ss.gif')
-![]('./data/SECURITY2.svg')
+![]('data/ss.gif')
+![]('data/SECURITY2.svg')
